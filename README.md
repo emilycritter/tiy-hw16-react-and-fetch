@@ -16,3 +16,4 @@ The Giphy API can be called using the following URL:
 
 ## Submission
 https://jsbin.com/tunavo
+https://jsbin.com/tunavo/18/edit?js,console,output
